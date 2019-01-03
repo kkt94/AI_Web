@@ -1,33 +1,31 @@
-from flask import Blueprint, render_template, request, redirect
-from web.database import db_session
-from web.models import Member
+from flask import Blueprint, render_template
 
 member = Blueprint('member', __name__, template_folder='templates')
 
+def get_member(fname, isalumni=0):
+    f = open(fname, "r", encoding="utf-8")
+    student = []
+    while True:
+        line = f.readline()
+        if not line: break
+        line = line.rstrip()
+        info = line.split("()")
+        if(isalumni == 1):
+            student.append({"name": info[0], "now": info[1]})
+        else:
+            student.append({"name":info[0], "email":info[1], "homepage":info[2], "research":info[3], "image":info[4]})
+    f.close()
+    return student
+
 @member.route('/member')
 def member_list():
-    phd = Member.query.filter(Member.degree == "phd").all()
-    ms = Member.query.filter(Member.degree == "ms").all()
-    under = Member.query.filter(Member.degree == "under").all()
-    alumni = Member.query.filter(Member.degree == "alumni").all()
-    return render_template("member_list.html", phd=phd, ms=ms, under=under, alumni=alumni)
+    phd_fname = "web/static/data/member/phd.txt"
+    phd_student = get_member(phd_fname)
+    ms_fname = "web/static/data/member/ms.txt"
+    ms_student = get_member(ms_fname)
+    under_fname = "web/static/data/member/under.txt"
+    under_student = get_member(under_fname)
+    alumni_fname = "web/static/data/member/alumni.txt"
+    alumni_student = get_member(alumni_fname, 1)
 
-@member.route("/member_insert", methods=['GET', 'POST'])
-def member_insert():
-    if request.method == "POST":
-        name = request.form.get("name")
-        print(name)
-        degree = request.form.get("degree")
-        email = request.form.get("email")
-        homepage = request.form.get("homepage")
-        research = request.form.get("research")
-        image = request.form.get("image")
-
-        new = Member(name, degree, email, homepage, research, image)
-
-        db_session.add(new)
-        db_session.commit()
-
-        return redirect("/member")
-    else:
-        return render_template("member_insert.html")
+    return render_template("member_list.html", phd=phd_student, ms=ms_student, under=under_student, alumni=alumni_student)

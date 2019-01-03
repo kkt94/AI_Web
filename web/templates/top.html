@@ -12,9 +12,9 @@
 
     <!-- Bootstrap core CSS -->
     <link href="static/css/bootstrap.css" rel="stylesheet">
-
-    <!-- Custom styles for this template -->
     <link href="static/css/business-frontpage.css" rel="stylesheet">
+    <script type="text/javascript" src="static/js/jquery.js"></script>
+    <script type="text/javascript" src="static/js/bootstrap.js"></script>
 
   </head>
 
@@ -29,16 +29,23 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="/main">Home
-                <span class="sr-only">(current)</span>
-              </a>
+            <li class="nav-item">
+              <a class="nav-link" href="/main">Home</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/member">Member</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/publications">Publications</a>
+            <li class="nav-item dropdown">
+              <!--<a class="nav-link" href="/publications">Publications</a>-->
+              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Publications</a>
+                <div class="dropdown-menu">
+                  <a class="dropdown-item" href="/publications?type=DJ">Domestic Journal</a>
+                  <a class="dropdown-item" href="/publications?type=DC">Domestic Conference</a>
+                  <a class="dropdown-item" href="/publications?type=IJ">International Journal</a>
+                  <a class="dropdown-item" href="/publications?type=IC">International Conference</a>
+
+                </div>
+
             </li>
           </ul>
         </div>

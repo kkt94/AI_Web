@@ -1,3 +1,25 @@
-<html>
-publications_list
-</html>
+{% include './top.html' %}
+
+    <!-- Page Content -->
+    <div class="container">
+      <br>
+      <br>
+      <h1 style="text-align: center;"><strong>Publications</strong></h1>
+      <br>
+      <br>
+      <h3><strong>{{ type }}</strong></h3>
+      <br>
+        <div style="margin-left:30px;">
+            {% for i in publications %}
+              <div>
+                  <strong>{{i.title}}</strong>
+                  <p>{{i.content}}</p>
+              </div>
+              <br>
+            {% endfor %}
+        </div>
+
+<!-- dont touch -->
+    </div>
+    <!-- /.container -->
+{% include './bottom.html' %}

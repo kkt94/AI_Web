@@ -1,12 +1,14 @@
 from flask import Flask, render_template, session, url_for
 from web.home import home
 from web.member import member
+from web.publications import publications
 
 
 
 app = Flask(__name__)
 app.register_blueprint(home)
 app.register_blueprint(member)
+app.register_blueprint(publications)
 
 #error handler 404, 500
 @app.errorhandler(404)
