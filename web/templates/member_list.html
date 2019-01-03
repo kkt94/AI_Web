@@ -8,72 +8,101 @@
       <br>
       <br>
       <h3><strong>Professor</strong></h3>
+
       <div class="row">
 
-        <div class="col-md-3 my-4">
-          <div class="card">
-            <img class="card-img-top" src="http://placehold.it/300x200" alt="">
-            <div class="card-body">
-              <h4 class="card-title"><strong>이름</strong></h4>
-              <p class="card-text">연구분야 : 가나다<br>E-mail : aaa@aaa.aaa<br>homepage : https://aaa.aaa.com</p>
-            </div>
-          </div>
+        <div class="col-md-4">
+          <img class="img-fluid" src="http://placehold.it/750x500" alt="">
+        </div>
+
+        <div class="col-md-8">
+          <h3 class="my-3">Yong Suk Choi</h3>
+          <p>asdfasdfasdfasdfasdfasdfasdfasdf asdfasdfasdfasdfasdf</p>
+          <!--
+          <h3 class="my-3">Project Details</h3>
+          <ul>
+            <li>Lorem Ipsum</li>
+          </ul>
+          -->
         </div>
 
       </div>
+
 <hr>
 <br>
       <h3><strong>PhD Students</strong></h3>
       <div class="row">
-
-        <div class="col-md-3 my-4">
-          <div class="card">
-            <img class="card-img-top" src="http://placehold.it/300x200" alt="">
-            <div class="card-body">
-              <a href="https://www.naver.com" style="color:black;"><h4 class="card-title"><strong>ByeongJo Kim</strong></h4></a>
-              <p class="card-text"><a href="mailto:bjbj8083@gmail.com" style="color:black">bjbj8083@gmail.com</a><br><br><strong>Research Areas</strong><br>Vision</p>
+        {% for i in phd %}
+          <div class="col-md-3 my-4">
+            <div class="card">
+              <img class="card-img-top" src="{{i.image}}" alt="">
+              <div class="card-body">
+                {% if i.homepage %}
+                  <a href="{{i.homepage}}" style="color:black;"><h4 class="card-title"><strong>{{i.name}}</strong></h4></a>
+                {% else%}
+                  <a style="color:black;"><h4 class="card-title"><strong>{{i.name}}</strong></h4></a>
+                {% endif %}
+                <p class="card-text"><a href="mailto:{{i.email}}" style="color:black">{{i.email}}</a><br><br><strong>Research Areas</strong><br>{{i.research}}</p>
+              </div>
             </div>
           </div>
-        </div>
-
-    </div>
+        {% endfor %}
+      </div>
 <hr>
 <br>
       <h3><strong>MS Students</strong></h3>
       <div class="row">
-
-        <div class="col-md-3 my-4">
-          <div class="card">
-            <img class="card-img-top" src="http://placehold.it/300x200" alt="">
-            <div class="card-body">
-              <a href="https://www.naver.com" style="color:black;"><h4 class="card-title"><strong>ByeongJo Kim</strong></h4></a>
-              <p class="card-text"><a href="mailto:bjbj8083@gmail.com" style="color:black">bjbj8083@gmail.com</a><br><br><strong>Research Areas</strong><br>Vision</p>
+        {% for i in ms %}
+          <div class="col-md-3 my-4">
+            <div class="card">
+              <img class="card-img-top" src="{{i.image}}" alt="">
+              <div class="card-body">
+                {% if i.homepage %}
+                  <a href="{{i.homepage}}" style="color:black;"><h4 class="card-title"><strong>{{i.name}}</strong></h4></a>
+                {% else%}
+                  <a style="color:black;"><h4 class="card-title"><strong>{{i.name}}</strong></h4></a>
+                {% endif %}
+                <p class="card-text"><a href="mailto:{{i.email}}" style="color:black">{{i.email}}</a><br><br><strong>Research Areas</strong><br>{{i.research}}</p>
+              </div>
             </div>
           </div>
-        </div>
-
+        {% endfor %}
     </div>
+<hr>
+<br>
+      <h3><strong>Undergraduate Students</strong></h3>
+      <div class="row">
+        {% for i in under %}
+          <div class="col-md-3 my-4">
+            <div class="card">
+              <img class="card-img-top" src="{{i.image}}" alt="">
+              <div class="card-body">
+                {% if i.homepage %}
+                  <a href="{{i.homepage}}" style="color:black;"><h4 class="card-title"><strong>{{i.name}}</strong></h4></a>
+                {% else%}
+                  <a style="color:black;"><h4 class="card-title"><strong>{{i.name}}</strong></h4></a>
+                {% endif %}
+                <p class="card-text"><a href="mailto:{{i.email}}" style="color:black">{{i.email}}</a><br><br><strong>Research Areas</strong><br>{{i.research}}</p>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
 <hr>
 <br>
       <h3><strong>Alumni</strong></h3>
       <div class="row">
+        {% for i in alumni %}
+          <div class="col-md-3 my-4">
+            <div class="card" style="border:0px;">
+              <div class="card-body">
+                <h4 class="card-title"><strong>{{i.name}}</strong></h4>
+                <p class="card-text">{{i.research}}</p>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
 
-        <div class="col-md-3 my-4">
-          <div class="card" style="border:0px;">
-            <div class="card-body">
-              <h4 class="card-title"><strong>이름</strong></h4>
-              <p class="card-text">NC soft</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-3 my-4">
-          <div class="card" style="border:0px;">
-            <div class="card-body">
-              <h4 class="card-title"><strong>이름</strong></h4>
-              <p class="card-text">NC soft</p>
-            </div>
-          </div>
-        </div>
     </div>
 <!-- dont touch -->
     </div>
