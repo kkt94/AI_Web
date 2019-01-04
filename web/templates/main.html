@@ -1,6 +1,7 @@
 {% include './top.html' %}
-<div class="container">
+
 <!-- Header with Background Image -->
+    <!--
     <header class="business-header">
       <div class="container">
         <div class="row">
@@ -8,37 +9,72 @@
             <h1 class="display-3 text-center text-white mt-4"></h1>
           </div>
         </div>
+
       </div>
     </header>
+-->
+<div class="container">
+     <div class="row">
+        <div class="col-lg-12">
+            <div class="slideshow-container">
 
+            <div class="mySlides slide1" style="display: block;"></div>
 
+            <div class="mySlides slide2"></div>
 
-         <div class="row">
-        <div class="col-sm-8">
-          <h2 class="mt-4">What We Do</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A deserunt neque tempore recusandae animi soluta quasi? Asperiores rem dolore eaque vel, porro, soluta unde debitis aliquam laboriosam. Repellat explicabo, maiores!</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis optio neque consectetur consequatur magni in nisi, natus beatae quidem quam odit commodi ducimus totam eum, alias, adipisci nesciunt voluptate. Voluptatum.</p>
-          <p>
-            <a class="btn btn-primary btn-lg" href="#">Call to Action &raquo;</a>
-          </p>
+            <!--<div class="mySlides slide3"></div>-->
+
+            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1)">&#10095;</a>
         </div>
-        <div class="col-sm-4">
-          <h2 class="mt-4">Contact Us</h2>
-          <address>
-            <strong>Start Bootstrap</strong>
-            <br>3481 Melrose Place
-            <br>Beverly Hills, CA 90210
+
             <br>
-          </address>
-          <address>
-            <abbr title="Phone">P:</abbr>
-            (123) 456-7890
-            <br>
-            <abbr title="Email">E:</abbr>
-            <a href="mailto:#">name@example.com</a>
-          </address>
+
+        <div style="text-align:center">
+          <span class="dot" onclick="currentSlide(1)"></span>
+          <span class="dot" onclick="currentSlide(2)"></span>
+          <!--<span class="dot" onclick="currentSlide(3)"></span>-->
         </div>
-      </div>
     </div>
-
+ </div>
+<br>
+<!--<h2 class="mt-4"><strong>한양대학교 인공지능 연구실</strong></h2>-->
+         <div class="row">
+         <div class="col-sm-4">
+             <div class="card">
+              <img class="card-img-top" src="static/img/ai.jpg" alt="">
+              <div class="card-body">
+                  <strong>인공지능 분야</strong><br>
+                  <p style="color:#908e8b">
+                      인공신경망(Deep Learning), 온톨로지기반지식관리시스템, 자연어기반 대화생성시스템, 패턴인식 및 매칭, 게임알고리즘
+                  </p>
+              </div>
+            </div>
+        </div>
+         <div class="col-sm-4">
+             <div class="card">
+              <img class="card-img-top" src="static/img/ir.png" alt="">
+              <div class="card-body">
+                  <strong>정보검색시스템 분야</strong><br>
+                  <p style="color:#908e8b">
+                      지능형검색 및 협력추천엔진, 질의 응답시스템, 텍스트 마이닝 및 SN 데이터 분석/시각화, 대규모문헌정보자동추출
+                  </p>
+              </div>
+            </div>
+        </div>
+         <div class="col-sm-4">
+             <div class="card">
+              <img class="card-img-top" src="static/img/robot.jpg" alt="">
+              <div class="card-body">
+                  <strong>융합 분야</strong><br>
+                  <p style="color:#908e8b">
+                      로봇지능체계, 스마트 앱, 게임기반학습 및 게임지능, e-러닝 및 지능형튜토링시스템
+                  </p>
+              </div>
+            </div>
+        </div>
+      </div><br>
+              <p style="text-align:right;font-size:13px">*위 분야에 관심과 열정이 있는 연구원을 상시 모집하고 있습니다. (석박통합과정 및 박사과정우대, 문의 02-2220-4139)<br>
+                모집대상: 석사과정, 석박통합과정, 박사과정, 인턴연구원(학사졸, 학부 4학년생)</p><br>
+    </div>
 {% include './bottom.html' %}

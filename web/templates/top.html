@@ -13,8 +13,10 @@
     <!-- Bootstrap core CSS -->
     <link href="static/css/bootstrap.css" rel="stylesheet">
     <link href="static/css/business-frontpage.css" rel="stylesheet">
+
     <script type="text/javascript" src="static/js/jquery.js"></script>
     <script type="text/javascript" src="static/js/bootstrap.js"></script>
+    <script type="text/javascript" src="static/js/ai_web.js"></script>
 
   </head>
 
@@ -24,6 +26,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
       <div class="container">
         <a class="navbar-brand" href="/main">AILAB</a>
+        <span style="color:#bbbcbf;font-size:13px">한양대학교 인공지능연구실</span>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -33,17 +36,19 @@
               <a class="nav-link" href="/main">Home</a>
             </li>
             <li class="nav-item">
+              <a class="nav-link" href="/intro">Introduction</a>
+            </li>
+            <li class="nav-item">
               <a class="nav-link" href="/member">Member</a>
             </li>
             <li class="nav-item dropdown">
               <!--<a class="nav-link" href="/publications">Publications</a>-->
               <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Publications</a>
                 <div class="dropdown-menu">
-                  <a class="dropdown-item" href="/publications?type=DJ">Domestic Journal</a>
-                  <a class="dropdown-item" href="/publications?type=DC">Domestic Conference</a>
                   <a class="dropdown-item" href="/publications?type=IJ">International Journal</a>
                   <a class="dropdown-item" href="/publications?type=IC">International Conference</a>
-
+                  <a class="dropdown-item" href="/publications?type=DJ">Domestic Journal</a>
+                  <a class="dropdown-item" href="/publications?type=DC">Domestic Conference</a>
                 </div>
 
             </li>

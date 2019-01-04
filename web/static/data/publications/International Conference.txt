@@ -1,2 +1,23 @@
-스포츠 경기의 문자 및 영상 데이터에 대한 온톨로지 인스턴스 실시간 자동 생성()신용기(Yonggi Shin), 장두수(Doosoo Chang ), 최용석(Yongsuk Choi), (한국정보과학회 학술발표논문집, Vol.2017 No.12, [2017])
-스포츠 경기의 문자 및 영상 데이터에 대한 온톨로지 인스턴스 실시간 자동 생성()신용기(Yonggi Shin), 장두수(Doosoo Chang ), 최용석(Yongsuk Choi), (한국정보과학회 학술발표논문집, Vol.2017 No.12, [2017])
+Robot Knowledge Ontology for Personalized Service Robots()ICGHIT 2017, 2017
+SNS data Visualization for analyzing spatial-temporal distribution of social anxiety()ICPS, 2016
+Incremental Iteration Method for Fast PageRank Computation()ICUIMC - ACM International Conference on Ubiquitous Information Management and Communication, 2015
+Content Type Based Adaptation in Collaborative Recommendation()ACM RACS 2014, 2014
+Metadata Based Combined Approach for Effective Collaborative Recommendation()ACM RACS 2014, 2014
+Weighted Combination of Q&A Retrieval Models Based on Part-of-speech of Question Word()2014 International Conference on Information Science and Applications (ICISA), 2014
+TPE Based Tuple Extraction Method for Question and Answering System()2014 International Conference on Information Science and Applications (ICISA), 2014
+Computerized adaptive testing and learning using bayesian network()ACM, IUI '13 Companion Proceedings of the companion publication of the 2013 international conference on Intelligent user interfaces, 2013
+A data partitioning approach for hierarchical clustering()ACM, ICUIMC '13 Proceedings of the 7th International Conference on Ubiquitous Information Management and Communication , 2013
+A game based learning content for tutoring in simplifying boolean functions()Proceedings in 10th IEEE International Conference on Advanced Learning Technologies, 2010
+Educational Information Search Service Using Ontology()Proceedings of The 7th IEEE International Conference on Advanced Learning Technologies, 2007
+Automated Extraction and Visualization of Protein Interactions from Biological Abstracts()Proceedings of 5th APIS International Conference, 2006
+Design and Implementation of Platform Profile Analyzer for Multi-Platform based E-Learning Service()Proceedings of the 4th Asia-Pacific International Symposium on Information Technology, 2005
+A Flexible System Architecture for E-Learning()Proceedings of the 4th Asia-Pacific International Symposium on Information Technology, 2005
+Automated Extraction of Protein-to-protein Interactions from Biological Literatures()Proceedings of KHUPO 4th International Proteomics Conference, 2004
+Learning to Select Text Databases with Neural Nets()International Conference on Machine Learning (ICML), pp.135-142, 2000
+Multi-agent Learning Approach to WWW Information Retrieval using Neural Network()ACM International Conference on Intelligent User Interfaces (IUI'99), pp.23-30, 1999
+Neural Net Agent for Discovering Text Databases on the Web()Proceedings of International Conference on Advances in Databases and Information Systems (ADBIS'99), pp.221 – 231, 1999
+Discovering Text Databases on the Internet: A Neural Net Agent Approach()Proceedings of International IEEE Systems, Man and Cybernetics Conference (SMC'99), Vol. II, pp.126-131, 1999
+Hierarchically Organized Neural Net Agents for Distributed Web Information Retrieval()Proceedings of 23rd International IEEE Computer Software and Applications Conference (COMPSAC'99), pp.192 – 197, 1999
+Neural Network Based Web Information Agent()ACM CIKM'98 Workshop on Web Information and Data Management (WIDM'98), pp.21-24, 1998
+A Knowledge Acquisition tool for Developing Diagnosis Systems()IITT International Conference on Expert Systems Applications and Artificial Intelligence, pp.305-310, 1996
+Approach to Building an Expert System for Fault Diagnosis in Air Defense Artilleries,()IASTED International Conference on Artificial Intelligence, Expert Systems and Neural Networks, Switzerland, 1994.
