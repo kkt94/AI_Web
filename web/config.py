@@ -1,1 +1,0 @@
-MYSQL = 'mysql+pymysql://root:root@127.0.0.1/blog?charset=utf8'
