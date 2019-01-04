@@ -1,7 +1,7 @@
 Su-Phil Cho()jessay@hanyang.ac.kr()()ai, nlp()jessay.jpg
 Yeon-Jee Han()yeon9891@hanyang.ac.kr()()ontology, vision()_hanyeonjee.jpg
 Hee-Song Eom()heesong1990@gmail.com()()regression()ehs.jpg
-유재창()3147@hanyang.com()()vision, nlp()yjc.png
+Jae-Chang Yoo()3147@hanyang.com()()vision, nlp()yjc.png
 Byeong-Jo Kim()bjbj8083@gmail.com()http://byeongjo.kim()vision()kbj.jpg
 Ji-Seong Kim()intelli8786@hanyang.ac.kr()()vision, iot()kjs.jpg
 Sang-woo Seo()ssw1591@hanyang.ac.kr()()nlp, vision()ssw.jpg
