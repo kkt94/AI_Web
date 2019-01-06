@@ -1,0 +1,23 @@
+{% include './top.html' %}
+
+<div class="container">
+      <br>
+      <br>
+      <h1 style="text-align: center;"><strong>Research</strong></h1>
+      <br>
+      <br>
+         <div class="row">
+             <div style="margin-left:30px;">
+            {% for i in researches %}
+              <div>
+                  <strong>{{i.title}}</strong>
+                  <p>{{i.content}}</p>
+              </div>
+              <br>
+            {% endfor %}
+            </div>
+         </div>
+    <br>
+</div>
+
+{% include './bottom.html' %}

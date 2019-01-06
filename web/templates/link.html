@@ -4,21 +4,23 @@
     <div class="container">
       <br>
       <br>
-      <h1 style="text-align: center;"><strong>Publications</strong></h1>
+      <h1 style="text-align: center;"><strong>Links</strong></h1>
       <br>
       <br>
-      <h3><strong>{{ type }}</strong></h3>
+        {% for l in links %}
+      <h3><strong>{{ l.type }}</strong></h3>
       <br>
         <div style="margin-left:30px;">
-            {% for i in publications %}
+            {% for i in l.links %}
               <div>
-                  <strong>{{i.title}}</strong>
-                  <p>{{i.content}}</p>
+                  <a href={{ i.link }} style="color:black"><strong>{{i.title}}</strong></a>
               </div>
               <br>
             {% endfor %}
         </div>
         <br>
+    {% endfor %}
+
 <!-- dont touch -->
     </div>
     <!-- /.container -->

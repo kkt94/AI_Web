@@ -1,0 +1,14 @@
+NCBI()http://www.ncbi.nlm.nih.gov
+Entrez & PubMed()http://www.ncbi.nlm.nih.gov/Database
+BLAST -- Homology Search()http://www.ncbi.nlm.nih.gov/blast
+Clustal-W Multiple Alignment()http://www.ebi.ac.uk/clustalw/index.html
+EMBOSS()http://www.emboss.org
+Primer3()http://frodo.wi.mit.edu/primer3/input.htm
+BioConductor()http://www.bioconductor.org
+GENESCAN()http://genes.mit.edu/GENSCAN.html
+Pfam()http://www.sanger.ac.uk/Software/Pfam
+OMIM()http://www3.ncbi.nlm.nih.gov/entrez/query.fcgi?db=OMIM
+Plant Genome Database()http://www.nal.usda.gov/pgdic
+Protein Data Bank()http://www.rcsb.org/pdb
+PyMol()http://pymol.sourceforge.net
+MicroRNA Registry()http://microrna.sanger.ac.uk/sequences
