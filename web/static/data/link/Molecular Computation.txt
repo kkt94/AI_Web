@@ -1,0 +1,13 @@
+A Bibliography of Molecular Computation and Splicing Systems()http://www.wi.LeidenUniv.nl/~pier/dna.html
+BioMip (in GMD)()http://www.izb.fraunhofer.de/profile.html
+Consortium for Biomolecular Computation()http://bmc.cs.duke.edu
+DNA Computing and Informatics at Surfaces (Univ. of Wisconsin)()http://www.corninfo.chem.wisc.edu/writings/DNAcomputing.html
+Dresden DNA Computation Group()http://wwwtcs.inf.tu-dresden.de/dnacomp/html/research.shtml.en
+iGEM()http://2008.igem.org
+International Meetings on DNA Based Computers Japanese Molecular Computation Project (MCP)()http://hagi.is.s.u-tokyo.ac.jp/MCP/
+International Society for Nanoscale Science, Computation and Engineering()http://www.isnsce.org/
+Leiden Center for Natural Computing()http://www.wi.leidenuniv.pl/~lcnc
+Molecular Computer Project (in Tokyo Univ.)()http://nicosia.is.s.u-tokyo.ac.jp/moco/
+Researchers on DNA Computing()http://bi.snu.ac.kr/Research/MEC/DNAC_researcher.html
+SNU Biointelligence MEC project()http://bi.snu.ac.kr/Research/MEC/bi_mec.html
+The European Molecular Computing Consortium (EMCC)()http://www.csc.liv.ac.uk/~emcc

@@ -40,7 +40,7 @@ def get_link(fname):
 @home.route("/link")
 def link():
     links = []
-    types = ["Artificial Intelligence", "Brain and Cognitive Science", "Machine Learning", "BioInformatics"]
+    types = ["Artificial Intelligence", "Brain and Cognitive Science", "Machine Learning", "Evolutionary Computation", "Molecular Computation", "BioInformatics"]
 
     for t in types:
         l = get_link(t)
