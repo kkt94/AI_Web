@@ -1,9 +1,9 @@
-Su-Phil Cho()jessay@hanyang.ac.kr()()ai, nlp()jessay.jpg
-Yeon-Jee Han()yeon9891@hanyang.ac.kr()()ontology, vision()_hanyeonjee.jpg
-Hee-Song Eom()heesong1990@gmail.com()()regression()ehs.jpg
-Jae-Chang Yoo()3147@hanyang.com()()vision, nlp()yjc.png
-Byeong-Jo Kim()bjbj8083@gmail.com()http://byeongjo.kim()vision()kbj.jpg
-Ji-Seong Kim()intelli8786@hanyang.ac.kr()()vision, iot()kjs.jpg
-Sang-woo Seo()ssw1591@hanyang.ac.kr()()nlp, vision()ssw.jpg
-Ji-Soo Song()autorsong@gmail.com()()Natural Language Processing()song.jpg
-Chung-Hyeon Cho()johnart1997@gmail.com()()nlp()cch.jpg
+Su-Phil Cho()jessay@hanyang.ac.kr()()Artificial Intelligence, NLP()jessay.jpg
+Yeon-Jee Han()yeon9891@hanyang.ac.kr()()Ontology, Vision()_hanyeonjee.jpg
+Hee-Song Eom()heesong1990@gmail.com()()Regression()ehs.jpg
+Jae-Chang Yoo()3147@hanyang.ac.kr()()Vision, NLP()yjc.png
+Byeong-Jo Kim()bjbj8083@gmail.com()http://byeongjo.kim()Vision()kbj.jpg
+Ji-Seong Kim()intelli8786@hanyang.ac.kr()()Vision, IoT()kjs.jpg
+Sang-woo Seo()ssw1591@hanyang.ac.kr()()NLP, Vision()ssw.jpg
+Ji-Soo Song()autorsong@gmail.com()()NLP()song.jpg
+Chung-Hyeon Cho()johnart1997@gmail.com()()NLP()cch.jpg
