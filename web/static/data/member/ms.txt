@@ -7,6 +7,6 @@ Ji-Seong Kim()intelli8786@hanyang.ac.kr()()Vision, IoT()kjs.jpg
 Sang-woo Seo()ssw1591@hanyang.ac.kr()()NLP, Vision()ssw.jpg
 Ji-Soo Song()autorsong@gmail.com()()NLP()song.jpg
 Chung-Hyeon Cho()johnart1997@gmail.com()()NLP()cch.jpg
-Ji-Eun Jeong()genie7@hanyang.ac.kr()()Ontology, Knowledge Engineering, NLP()wldms.jpg
-Yu-Ri Kim()yuri.kim.dev@gmail.com()()NLP()dbfl.jpg
-So-Young Park()dingdongx2@hanyang.ac.kr()()NLP()thdud.jpg
+Ji-Eun Jeong()genie7@hanyang.ac.kr()()Ontology, NLP()wldms.jpg
+Yu-Ri Kim()yurikim@hanyang.ac.kr()()NLP()dbfl.jpg
+So-Young Park()veryyoung@hanyang.ac.kr()()NLP()thdud.jpg
