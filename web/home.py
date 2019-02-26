@@ -24,6 +24,10 @@ def research():
     f.close()
     return render_template("research.html", researches=researches)
 
+@home.route("/contact")
+def contact():
+    return render_template("contact.html")
+
 def get_link(fname):
     fname = "web/static/data/link/" + fname + ".txt"
     f = open(fname, "r", encoding="utf-8")
