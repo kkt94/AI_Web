@@ -5,7 +5,7 @@ import socket, random, sys
 home = Blueprint('home', __name__, template_folder='templates')
 
 # ChatScript
-cs_host = "166.104.143.103"
+cs_host = "localhost"
 cs_port = 1024
 cs_addr = (cs_host, cs_port)
 
@@ -79,7 +79,7 @@ def response():
         message = message.encode("utf-8") # original
         # message = base64.b64encode(message)
         client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        client_socket.bind(("166.104.143.103", random.randrange(1025)+1024))
+        client_socket.bind(("localhost", random.randrange(1025)+1024))
         client_socket.connect(cs_addr)
         client_socket.send(message)
         data_out = ''
