@@ -62,35 +62,35 @@ def link():
 
     return render_template("link.html", links=links)
 
-@home.route("/chatbot")
-def chatbot():
-    return render_template("chatbot.html")
+# @home.route("/chatbot")
+# def chatbot():
+#     return render_template("chatbot.html")
 
-@home.route("/response", methods=['POST'])
-def response():
-    result = request.get_json()
-    username = request.remote_addr + request.headers.get('User-Agent')
-    message = username + chr(0) + cs_bot + chr(0) + result + chr(0)
-
-    if len(result):
-        split_result = result.split(' ')[0]
-        if split_result == ":reset" or split_result == ":pos" or split_result == ":why" or split_result == ":build":
-            message = cs_master + chr(0) + cs_bot + chr(0) + result + chr(0)
-        message = message.encode("utf-8") # original
-        # message = base64.b64encode(message)
-        client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        client_socket.bind(("localhost", random.randrange(1025)+1024))
-        client_socket.connect(cs_addr)
-        client_socket.send(message)
-        data_out = ''
-        while True:
-            buf = client_socket.recv(64)
-            if len(buf) > 0:
-                # data_out += buf.decode("utf-8")
-                data_out += buf.decode("utf-8", errors='ignore') # original
-                # data_out += buf.decode("utf-16")
-            else:
-                break
-        client_socket.close()
-
-        return jsonify(data_out)
+# @home.route("/response", methods=['POST'])
+# def response():
+#     result = request.get_json()
+#     username = request.remote_addr + request.headers.get('User-Agent')
+#     message = username + chr(0) + cs_bot + chr(0) + result + chr(0)
+#
+#     if len(result):
+#         split_result = result.split(' ')[0]
+#         if split_result == ":reset" or split_result == ":pos" or split_result == ":why" or split_result == ":build":
+#             message = cs_master + chr(0) + cs_bot + chr(0) + result + chr(0)
+#         message = message.encode("utf-8") # original
+#         # message = base64.b64encode(message)
+#         client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+#         client_socket.bind(("localhost", random.randrange(1025)+1024))
+#         client_socket.connect(cs_addr)
+#         client_socket.send(message)
+#         data_out = ''
+#         while True:
+#             buf = client_socket.recv(64)
+#             if len(buf) > 0:
+#                 # data_out += buf.decode("utf-8")
+#                 data_out += buf.decode("utf-8", errors='ignore') # original
+#                 # data_out += buf.decode("utf-16")
+#             else:
+#                 break
+#         client_socket.close()
+#
+#         return jsonify(data_out)
