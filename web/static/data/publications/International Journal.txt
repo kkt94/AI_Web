@@ -2,12 +2,12 @@ Semantic Relation Classification via Bidirectional LSTM Networks with Entity-Awa
 Boosting Memory-Based Collaborative Filtering Using Content-Metadata()SYMMETRY-BASEL, Vol.11, No.4, 2019 - SCIE
 Ontology based Human-Robot Interaction Knowledge for Intelligent Services()Lecture Notes in Computer Sicence (ICSR’2017), 2017
 Effectiveness of game based learning to minimize boolean functions()MULTIMEDIA TOOLS AND APPLICATIONS, Volume 74, Issue 17, 2014
-Collaborative Recommendation Method Reflecting Temporal Trends()INFORMATION-AN INTERNATIONAL INTERDISCIPLINARY JOURNAL, 91-92, 2013
-Brain wave and User Profile based Learning Content Type Recommendation in Interactive e-Learning Environment()International Journal of Smart Home, 33-40, 2013
+Collaborative Recommendation Method Reflecting Temporal Trends()INFORMATION-AN INTERNATIONAL INTERDISCIPLINARY JOURNAL, 2013
+Brain wave and User Profile based Learning Content Type Recommendation in Interactive e-Learning Environment()International Journal of Smart Home, 2013
 Bayesian Network Approach to Computerized Adaptive Testing()International Journal of Smart Home, 2012
 TPEMatcher: A tool for searching in parsed text corpora()KNOWLEDGE-BASED SYSTEMS, 1139-1150, 2011
-Tree pattern expression for extracting information from syntactically parsed text corpora()DATA MINING AND KNOWLEDGE DISCOVERY, 211-231, 2011
-Extracting Protein Interactions from Biological Literatures Using Syntactic Tree Patterns()INFORMATION-AN INTERNATIONAL INTERDISCIPLINARY JOURNAL, 1807-1822, 2010
+Tree pattern expression for extracting information from syntactically parsed text corpora()DATA MINING AND KNOWLEDGE DISCOVERY, 2011
+Extracting Protein Interactions from Biological Literatures Using Syntactic Tree Patterns()INFORMATION-AN INTERNATIONAL INTERDISCIPLINARY JOURNAL, 2010
 Using Ontologies to search Learning Resource()LECTURE NOTES IN COMPUTER SCIENCE, 2007
 Identification of novel anti-angiogenic factors by in silico functional gene screening method()Journal of Biotechnology, Vol.105, 2003
 Neural Agent for Text Database Discovery()Intelligent Exploration of the Web, 2003
