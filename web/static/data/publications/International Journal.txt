@@ -1,4 +1,7 @@
-Effectiveness of game based learning to minimize boolean functions()MULTIMEDIA TOOLS AND APPLICATIONS, Volume 74, Issue 17, pp 7131-7146, 2014
+Semantic Relation Classification via Bidirectional LSTM Networks with Entity-Aware Attention Using Latent Entity Typing()SYMMETRY-BASEL, Vol.11, No.6, 2019 - SCIE
+Boosting Memory-Based Collaborative Filtering Using Content-Metadata()SYMMETRY-BASEL, Vol.11, No.4, 2019 - SCIE
+Ontology based Human-Robot Interaction Knowledge for Intelligent Services()Lecture Notes in Computer Sicence (ICSR’2017), 2017
+Effectiveness of game based learning to minimize boolean functions()MULTIMEDIA TOOLS AND APPLICATIONS, Volume 74, Issue 17, 2014
 Collaborative Recommendation Method Reflecting Temporal Trends()INFORMATION-AN INTERNATIONAL INTERDISCIPLINARY JOURNAL, 91-92, 2013
 Brain wave and User Profile based Learning Content Type Recommendation in Interactive e-Learning Environment()International Journal of Smart Home, 33-40, 2013
 Bayesian Network Approach to Computerized Adaptive Testing()International Journal of Smart Home, 2012
@@ -6,13 +9,13 @@ TPEMatcher: A tool for searching in parsed text corpora()KNOWLEDGE-BASED SYSTEMS
 Tree pattern expression for extracting information from syntactically parsed text corpora()DATA MINING AND KNOWLEDGE DISCOVERY, 211-231, 2011
 Extracting Protein Interactions from Biological Literatures Using Syntactic Tree Patterns()INFORMATION-AN INTERNATIONAL INTERDISCIPLINARY JOURNAL, 1807-1822, 2010
 Using Ontologies to search Learning Resource()LECTURE NOTES IN COMPUTER SCIENCE, 2007
-Identification of novel anti-angiogenic factors by in silico functional gene screening method()Journal of Biotechnology, Vol.105, pp.51-60, 2003
+Identification of novel anti-angiogenic factors by in silico functional gene screening method()Journal of Biotechnology, Vol.105, 2003
 Neural Agent for Text Database Discovery()Intelligent Exploration of the Web, 2003
-Neural Net Agent Approach to Discovering Text Databases on the Web()Knowledge and Information Systems: An International Journal (KAIS), Vol.3, No.3, pp.356-373, 2001
+Neural Net Agent Approach to Discovering Text Databases on the Web()Knowledge and Information Systems: An International Journal (KAIS), Vol.3, No.3, 2001
 Discovering Text Databases with Neural Nets()Knowledge and Information Systems: An International Journal, 2001
 Developing Fault Diagnosis System Using an Expert System Shell()2001
 Text Database Discovery on the Web: Neural Net Based Approach()JOURNAL OF INTELLIGENT INFORMATION SYSTEMS, 2001
-Hierarchical Multi-Agent Organization for Text Database Discovery()Lecture Notes in Artificial Intelligence, 1999
-Neural Net Agent for Discovering Text Databases on the Web()Lecture Notes in Computer Science , 1999
+Hierarchical Multi-Agent Organization for Text Database Discovery()Lecture Notes in Artificial Intelligence(COMPSAC’99), 1999
+Neural Net Agent for Discovering Text Databases on the Web()Lecture Notes in Computer Science(ADBIS’99), 1999
 Multi-agent Web Information Retrieval: Neural Network Based Approach()Lecture Note in computer Science 1642 (International Conference on Intelligent Data Analysis), August 1999. - SCIE
-Fault Diagnosis in Air defense Artilleries using Expert Systems()International Journal on Robotics & Computer-Integrated Manufacturing, Vol.11, No.3, pp.177-186, 1995. - SCIE
+Fault Diagnosis in Air defense Artilleries using Expert Systems()International Journal on Robotics & Computer-Integrated Manufacturing, Vol.11, No.3, 1995. - SCIE
