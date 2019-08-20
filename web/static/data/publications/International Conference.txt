@@ -1,20 +1,20 @@
 A Tool for Spatio-Temporal Analysis of Social Anxiety with Twitter Data()ACM SIGAPP Symposium on Applied Computing, 2019
-Improving RNN based Recommendation by Embedding-Weight Tying()IEEE International Conference on Systems, Man, and Cybernetics, 2018
-Knowledge based Dialog Management System for Social Human-Robot Interaction()ACM/IEEE International Conference on Human-Robot Interaction, 2018
-Robot Knowledge Ontology for Personalized Service Robots()International Conference on Green and Human Information Technology, 2017
-SNS data Visualization for analyzing spatial-temporal distribution of social anxiety()International Conference on Emerging Databases – Technologies, Applications, and Theory, Vol.6 No.1, 2016
-Incremental Iteration Method for Fast PageRank Computation()ICUIMC - ACM International Conference on Ubiquitous Information Management and Communication, 2015
-Content Type Based Adaptation in Collaborative Recommendation()ACM, RACS Research in Adaptive and Convergent Systems, 2014
-Metadata Based Combined Approach for Effective Collaborative Recommendation()ACM, RACS Research in Adaptive and Convergent Systems, 2014
+Improving RNN based Recommendation by Embedding-Weight Tying()IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2018
+Knowledge based Dialog Management System for Social Human-Robot Interaction()ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2018
+Robot Knowledge Ontology for Personalized Service Robots()International Conference on Green and Human Information Technology (ICGHIT), 2017
+SNS data Visualization for analyzing spatial-temporal distribution of social anxiety()International Conference on Emerging Databases – Technologies, Applications, and Theory (EDB), Vol.6 No.1, 2016
+Incremental Iteration Method for Fast PageRank Computation()ICUIMC - ACM International Conference on Ubiquitous Information Management and Communication (ICUIMC), 2015
+Content Type Based Adaptation in Collaborative Recommendation()ACM Research in Adaptive and Convergent Systems (RACS), 2014
+Metadata Based Combined Approach for Effective Collaborative Recommendation()ACM Research in Adaptive and Convergent Systems (RACS), 2014
 Weighted Combination of Q&A Retrieval Models Based on Part-of-speech of Question Word()International Conference on Information Science and Applications (ICISA), 2014
 TPE Based Tuple Extraction Method for Question and Answering System()International Conference on Information Science and Applications (ICISA), 2014
 Computerized adaptive testing and learning using bayesian network()ACM Proceedings of the publication of the International Conference on Intelligent User Interfaces (IUI), 2013
 A data partitioning approach for hierarchical clustering()ACM Proceedings of the 7th International Conference on Ubiquitous Information Management and Communication (ICUIMC), 2013
-A game based learning content for tutoring in simplifying boolean functions()Proceedings in 10th IEEE International Conference on Advanced Learning Technologies, 2010
-Educational Information Search Service Using Ontology()Proceedings of The 7th IEEE International Conference on Advanced Learning Technologies, 2007
-Automated Extraction and Visualization of Protein Interactions from Biological Abstracts()Proceedings of 5th APIS International Conference, 2006
-Design and Implementation of Platform Profile Analyzer for Multi-Platform based E-Learning Service()Proceedings of the 4th Asia-Pacific International Symposium on Information Technology, 2005
-A Flexible System Architecture for E-Learning()Proceedings of the 4th Asia-Pacific International Symposium on Information Technology, 2005
+A game based learning content for tutoring in simplifying boolean functions()Proceedings in 10th IEEE International Conference on Advanced Learning Technologies (ICALT), 2010
+Educational Information Search Service Using Ontology()Proceedings of The 7th IEEE International Conference on Advanced Learning Technologies (ICALT), 2007
+Automated Extraction and Visualization of Protein Interactions from Biological Abstracts()Proceedings of 5th Asia Pacific International Conference (APIC), 2006
+Design and Implementation of Platform Profile Analyzer for Multi-Platform based E-Learning Service()Proceedings of the 4th Asia Pacific International Symposium on Information Technology (APIC-IST), 2005
+A Flexible System Architecture for E-Learning()Proceedings of the 4th Asia-Pacific International Symposium on Information Technology (APIC-IST), 2005
 Automated Extraction of Protein-to-protein Interactions from Biological Literatures()Proceedings of KHUPO 4th International Proteomics Conference, 2004
 Learning to Select Text Databases with Neural Nets()International Conference on Machine Learning (ICML), 2000
 Multi-agent Learning Approach to WWW Information Retrieval using Neural Network()ACM International Conference on Intelligent User Interfaces (IUI'99), 1999
