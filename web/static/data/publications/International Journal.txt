@@ -1,5 +1,5 @@
-Semantic Relation Classification via Bidirectional LSTM Networks with Entity-Aware Attention Using Latent Entity Typing()SYMMETRY-BASEL, Vol.11, No.6, 2019
-Boosting Memory-Based Collaborative Filtering Using Content-Metadata()SYMMETRY-BASEL, Vol.11, No.4, 2019
+Semantic Relation Classification via Bidirectional LSTM Networks with Entity-Aware Attention Using Latent Entity Typing()Symmetry-Basel, Vol.11, No.6, 2019
+Boosting Memory-Based Collaborative Filtering Using Content-Metadata()Symmetry-Basel, Vol.11, No.4, 2019
 Ontology based Human-Robot Interaction Knowledge for Intelligent Services()Lecture Notes in Artificial Intelligence (ICSR’2017), 2017
 Effectiveness of game based learning to minimize boolean functions()Multimedia Tools and Applications, Volume 74, Issue 17, 2014
 Collaborative Recommendation Method Reflecting Temporal Trends()Information-An International Interdisciplinary Journal, 2013

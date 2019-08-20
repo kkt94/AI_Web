@@ -60,7 +60,6 @@ SQL실습을 위한 관계대수 학습 코스웨어의 설계 및 구현()한�
 분산처리를 이용한 단백질 결합정보 시스템의 구현()한국인터넷정보학회 학술발표대회 논문집 Vol.5 No.1
 시공간 정보에 기반한 역사학습용 멀티미디어 웹 컨텐츠 개발()한국컴퓨터교육학회학술발표논문집, 2004
 효율적인 온라인 학습 및 관리를 위한 하이브리드 학습 시스템의 설계 및 구현()한국컴퓨터교육학회학술발표논문집, 2004
-Comprehensive Bioinformatic Approaches for Constructing the Global Protein Interaction Network()the 15th Annual Meeting of the Korean Society for Molecular and Cellular Biology, 2003
 Comprehensive Bioinformatic Approaches for Constructing the Global Protein Interaction Network()한국분자세포생물학회학술발표논문집, 2002
 AngioDB: Database of Angiogenesis and Angiogenesis-related Molecules()대한의료정보학회지, 2002
 진단지식 획득 및 자동 지식베이스 생성 도구 설계()한국정보과학회학술대회논문발표집, Vol.21, No.2, 1994.
