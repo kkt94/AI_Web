@@ -1,5 +1,4 @@
 Su-Phil Cho()jessay@hanyang.ac.kr()()Artificial Intelligence, NLP()jessay.jpg
-Yeon-Jee Han()yeon9891@hanyang.ac.kr()()Ontology, Vision()_hanyeonjee.jpg
 Hee-Song Eom()heesong1990@gmail.com()()Regression, Vision()ehs.jpg
 Jae-Chang Yoo()3147@hanyang.ac.kr()()Vision, NLP()yjc.png
 Byeong-Jo Kim()bjbj8083@gmail.com()http://byeongjo.kim()Vision()kbj.jpg
@@ -10,3 +9,4 @@ Chung-Hyeon Cho()johnart1997@gmail.com()()NLP()cch.jpg
 Ji-Eun Jeong()genie7@hanyang.ac.kr()()Ontology, NLP()wldms.jpg
 Yu-Ri Kim()yurikim@hanyang.ac.kr()()NLP()dbfl.jpg
 So-Young Park()veryyoung@hanyang.ac.kr()()NLP()thdud.jpg
+Ji-Un Oh()jiunoh@hanyang.ac.kr()()Artificial Intelligence()ohjiun.jpeg
