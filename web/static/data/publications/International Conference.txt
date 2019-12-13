@@ -1,5 +1,5 @@
-Similarity-based Calibration Method for Zero-Shot Recognition in Multi-object Scenes()Symposium on Applied Computing (SAC), 2020
-Ontology-Based Knowledge model for Human-Robot Interactive Services()Symposium on Applied Computing (SAC), 2020
+Similarity-based Calibration Method for Zero-Shot Recognition in Multi-object Scenes()ACM SIGAPP Symposium on Applied Computing (SAC), 2020
+Ontology-Based Knowledge model for Human-Robot Interactive Services()ACM SIGAPP Symposium on Applied Computing (SAC), 2020
 Automatic Baseball Commentary Generation Using Deep Learning()ACM SIGAPP Symposium on Applied Computing (SAC), 2020
 A Tool for Spatio-Temporal Analysis of Social Anxiety with Twitter Data()ACM SIGAPP Symposium on Applied Computing (SAC), 2019
 Improving RNN based Recommendation by Embedding-Weight Tying()IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2018
