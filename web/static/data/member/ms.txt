@@ -1,12 +1,11 @@
-Su-Phil Cho()jessay@hanyang.ac.kr()()Artificial Intelligence, NLP()jessay.jpg
-Hee-Song Eom()heesong1990@gmail.com()()Regression, Vision()ehs.jpg
-Jae-Chang Yoo()3147@hanyang.ac.kr()()Vision, NLP()yjc.png
-Byeong-Jo Kim()bjbj8083@gmail.com()http://byeongjo.kim()Vision()kbj.jpg
-Ji-Seong Kim()intelli8786@hanyang.ac.kr()()Vision, IoT()kjs.jpg
-Sang-woo Seo()ssw1591@hanyang.ac.kr()()NLP, Vision()ssw.jpg
 Ji-Soo Song()autorsong@gmail.com()()NLP()song.jpeg
 Chung-Hyeon Cho()johnart1997@gmail.com()()NLP()cch.jpg
-Ji-Eun Jeong()genie7@hanyang.ac.kr()()VIsion, Ontology ()wldms.jpg
+Ji-Eun Jeong()genie7@hanyang.ac.kr()()Vision, Ontology ()wldms.jpg
 Yu-Ri Kim()yurikim@hanyang.ac.kr()()NLP()dbfl.jpg
 So-Young Park()veryyoung@hanyang.ac.kr()()Vision, NLP()thdud.jpg
 Ji-Un Oh()jiunoh@hanyang.ac.kr()()NLP()ohjiun.jpeg
+Bong-Seok Lee()tjr4090@hanyang.ac.kr()()NLP()leebongseok.jpg
+Ung-Hee Kim()mantis3938@hanyang.ac.kr()()NLP()kimunghee.jpg
+Young-Min Seo()ghzmwhdk777@hanyang.ac.kr()()Vision, Recommender System()seoyoungmin.jpg
+Won-Hyuk Choi()gandet09@hanyang.ac.kr()()Vision, NLP()choiwonhyuk.jpg
+Pil-sung Kim()dc5000pcx@gmail.com()()Artificial Intelligence()kimpilsung.jpg
