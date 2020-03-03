@@ -5,6 +5,7 @@ Yu-Ri Kim()yurikim@hanyang.ac.kr()()NLP()dbfl.jpg
 So-Young Park()veryyoung@hanyang.ac.kr()()Vision, NLP()thdud.jpg
 Ji-Un Oh()jiunoh@hanyang.ac.kr()()NLP()ohjiun.jpeg
 Bong-Seok Lee()tjr4090@hanyang.ac.kr()()NLP()leebongseok.jpg
+Eun-Soo Lee()eunsoogi@hanyang.ac.kr()()Artificial Intelligence()leeeunsoo.jpg
 Ung-Hee Kim()mantis3938@hanyang.ac.kr()()NLP()kimunghee.jpg
 Young-Min Seo()ghzmwhdk777@hanyang.ac.kr()()Vision, Recommender System()seoyoungmin.jpg
 Won-Hyuk Choi()gandet09@hanyang.ac.kr()()Vision, NLP()choiwonhyuk.jpg
