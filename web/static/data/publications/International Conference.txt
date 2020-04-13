@@ -1,3 +1,5 @@
+A Multilevel Analysis of the Network Topology Effects on Communication Disparity in Facebook()70th Annual International Communication Association Conference (ICA), 2020
+Care Guide System for Caregivers of Person with Dementia()42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2020
 Similarity-based Calibration Method for Zero-Shot Recognition in Multi-object Scenes()ACM SIGAPP Symposium on Applied Computing (SAC), 2020
 Ontology-Based Knowledge model for Human-Robot Interactive Services()ACM SIGAPP Symposium on Applied Computing (SAC), 2020
 Automatic Baseball Commentary Generation Using Deep Learning()ACM SIGAPP Symposium on Applied Computing (SAC), 2020
