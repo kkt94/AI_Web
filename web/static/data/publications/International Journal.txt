@@ -1,5 +1,5 @@
 Mapping Social Distress: A Computational Approach to Spatiotemporal Distribution of Anxiety()Social Science Computer Review, 2020
-An efficient variable interdependency-identification and decomposition by minimizing redundant computations for large-scale global optimization()Information Sciences, 2019
+An efficient variable interdependency-identification and decomposition by minimizing redundant computations for large-scale global optimization()Information Sciences, 2020
 Image-To-Image Translation Using a Cross-Domain Auto-Encoder and Decoder()Applied Sciences-Basel, Vol.9, No.22, 2019
 Semantic Relation Classification via Bidirectional LSTM Networks with Entity-Aware Attention Using Latent Entity Typing()Symmetry-Basel, Vol.11, No.6, 2019
 Boosting Memory-Based Collaborative Filtering Using Content-Metadata()Symmetry-Basel, Vol.11, No.4, 2019
