@@ -1,7 +1,6 @@
-Ji-Soo Song()autorsong@gmail.com()()NLP()song.jpeg
 Chung-Hyeon Cho()johnart1997@gmail.com()()NLP()cch.jpg
-Ji-Eun Jeong()genie7@hanyang.ac.kr()()Vision, Ontology ()wldms.jpg
 Yu-Ri Kim()yurikim@hanyang.ac.kr()()NLP()dbfl.jpg
+Ji-Eun Jeong()genie7@hanyang.ac.kr()()Vision, Ontology ()wldms.jpg
 So-Young Park()veryyoung@hanyang.ac.kr()()Vision, NLP()thdud.jpg
 Ji-Un Oh()jiunoh@hanyang.ac.kr()()NLP()ohjiun.jpeg
 Bong-Seok Lee()tjr4090@hanyang.ac.kr()()NLP()leebongseok.jpg
