@@ -4,7 +4,11 @@ Ji-Eun Jeong()genie7@hanyang.ac.kr()()Vision, Ontology ()wldms.jpg
 So-Young Park()veryyoung@hanyang.ac.kr()()Vision, NLP()thdud.jpg
 Ji-Un Oh()jiunoh@hanyang.ac.kr()()NLP()ohjiun.jpeg
 Bong-Seok Lee()tjr4090@hanyang.ac.kr()()NLP()leebongseok.jpg
-Eun-Soo Lee()eunsoogi@hanyang.ac.kr()()Artificial Intelligence()leeeunsoo.jpg
+Eun-Soo Lee()eunsoogi@hanyang.ac.kr()()NLP()leeeunsoo.jpg
 Ung-Hee Kim()mantis3938@hanyang.ac.kr()()NLP()kimuh.jpg
 Young-Min Seo()ghzmwhdk777@hanyang.ac.kr()()Vision, Recommender System()seoyoungmin.jpg
 Won-Hyuk Choi()gandet09@hanyang.ac.kr()()Vision, NLP()choiwonhyuk.jpg
+Hyeong-Ryeol Baek()qorgod00@hanyang.ac.kr()()NLP()bhr.jpg
+Samuel Kang()ksml007@hanyang.ac.kr()()Artificial Intelligence()samuel.jpg
+Nam-Hyoung Kim()x7jeon8gi@hanyang.ac.kr()()NLP, Financial Machine Learning()knh.jpg
+Hee-Ju Im()heju0509@hanyang.ac.kr()()Artificial Intelligence()lhj.jpg

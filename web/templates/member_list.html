@@ -80,6 +80,26 @@
       </div>
 <hr>
 <br>
+      <h3><strong>Post Doc.</strong></h3>
+      <div class="row">
+        {% for i in postdoc %}
+          <div class="col-md-3 my-4">
+            <div class="card">
+              <img class="card-img-top" src="static/img/member/{{i.image}}" alt="">
+              <div class="card-body">
+                {% if i.homepage %}
+                  <a href="{{i.homepage}}" style="color:black;"><h4 class="card-title"><strong>{{i.name}}</strong></h4></a>
+                {% else%}
+                  <a style="color:black;"><h4 class="card-title"><strong>{{i.name}}</strong></h4></a>
+                {% endif %}
+                <p class="card-text" style="color:#908e8b"><a href="mailto:{{i.email}}" style="color:#908e8b">{{i.email}}</a><br><br><strong style="color:black">Research Areas</strong><br>{{i.research}}</p>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+<hr>
+<br>
       <h3><strong>MS Students</strong></h3>
       <div class="row">
         {% for i in ms %}
