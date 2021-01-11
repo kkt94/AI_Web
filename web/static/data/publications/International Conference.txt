@@ -1,3 +1,6 @@
+Depth-Enhanced Gaze Following Method()ACM SIGAPP Symposium on Applied Computing (SAC), 2021
+Graph Convolutional Networks for Skeleton-Based Action Recognition with LSTM using Tool-Information()ACM SIGAPP Symposium on Applied Computing (SAC), 2021
+Dependency Tree Positional Encoding Method for Relation Extraction()ACM SIGAPP Symposium on Applied Computing (SAC), 2021
 A Multilevel Analysis of the Network Topology Effects on Communication Disparity in Facebook()70th Annual International Communication Association Conference (ICA), 2020
 Care Guide System for Caregivers of Person with Dementia()42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2020
 Similarity-based Calibration Method for Zero-Shot Recognition in Multi-object Scenes()ACM SIGAPP Symposium on Applied Computing (SAC), 2020
