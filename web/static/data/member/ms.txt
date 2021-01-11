@@ -1,7 +1,3 @@
-Chung-Hyeon Cho()johnart1997@gmail.com()()NLP()cch.jpg
-Yu-Ri Kim()yurikim@hanyang.ac.kr()()NLP()dbfl.jpg
-Ji-Eun Jeong()genie7@hanyang.ac.kr()()Vision, Ontology ()wldms.jpg
-So-Young Park()veryyoung@hanyang.ac.kr()()Vision, NLP()thdud.jpg
 Ji-Un Oh()jiunoh@hanyang.ac.kr()()NLP()ohjiun.jpeg
 Bong-Seok Lee()tjr4090@hanyang.ac.kr()()NLP()leebongseok.jpg
 Eun-Soo Lee()eunsoogi@hanyang.ac.kr()()NLP()leeeunsoo.jpg
