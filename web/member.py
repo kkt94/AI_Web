@@ -19,10 +19,12 @@ def get_member(fname, isalumni=0):
 
 @member.route('/member')
 def member_list():
-    phd_fname = "web/static/data/member/phd.txt"
-    phd_student = get_member(phd_fname)
     podoc_fname = "web/static/data/member/postdoc.txt"
     podoc = get_member(podoc_fname)
+    phd_fname = "web/static/data/member/phd.txt"
+    phd_student = get_member(phd_fname)
+    integ_fname = "web/static/data/member/integrated.txt"
+    integ_student = get_member(integ_fname)    
     ms_fname = "web/static/data/member/ms.txt"
     ms_student = get_member(ms_fname)
     under_fname = "web/static/data/member/under.txt"
@@ -30,4 +32,4 @@ def member_list():
     alumni_fname = "web/static/data/member/alumni.txt"
     alumni_student = get_member(alumni_fname, 1)
 
-    return render_template("member_list.html", phd=phd_student, postdoc=podoc, ms=ms_student, under=under_student, alumni=alumni_student)
+    return render_template("member_list.html", postdoc=podoc, phd=phd_student, integ=integ_student, ms=ms_student, under=under_student, alumni=alumni_student)
