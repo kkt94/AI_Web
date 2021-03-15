@@ -1,3 +1,4 @@
+Discovering microbe-disease associations from the literature using a hierarchical long short-term memory network and an ensemble parser model()Scientific Reports, Vol.11, No.4490, 2021
 Enhancement of Multi-Target Tracking Performance via Image Restoration and Face Embedding in Dynamic Environments()Applied Sciences-Basel, Vol.11, No.2, 2021
 Zero-Shot Recognition Enhancement by Distance-Weighted Contextual Inference()Applied Sciences-Basel, Vol.10, No.20, 2020
 Mapping Social Distress: A Computational Approach to Spatiotemporal Distribution of Anxiety()Social Science Computer Review, 2020
