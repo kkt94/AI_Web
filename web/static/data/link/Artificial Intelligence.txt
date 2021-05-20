@@ -1,5 +1,13 @@
-AI HUB()http://www.aihub.org
-Artificial General Intelligence Research Institue()http://www.agiri.org/wiki/Main_Page
-Artificial Intelligence Directory()http://www.ai-directory.com/
-Google Offers Cloud-Based Learning Engine()http://cacm.acm.org/news/97840-google-offers-cloud-based-learning-engine/fulltext
-Novamente()http://wp.novamente.net
+Papers With Code()https://paperswithcode.com/
+Google AI Blog()https://ai.googleblog.com/
+Towards Data Science()https://towardsdatascience.com/
+Codementor Community()https://www.codementor.io/community/
+Machine Learning Mastery()https://machinelearningmastery.com/
+PyImageSearch()https://www.pyimagesearch.com/
+DZone()https://dzone.com/
+Analytics Vidhya Blog()https://www.analyticsvidhya.com/blog/
+Kdnuggets()https://www.kdnuggets.com/
+Pete Warden’s Blog()https://petewarden.com/
+Revolutions Blog()http://blog.revolutionanalytics.com/
+Data Plus Science Blog()https://www.dataplusscience.com/insights.html
+Edwin Chen’s Blog()http://blog.echen.me/

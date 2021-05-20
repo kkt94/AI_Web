@@ -1,0 +1,53 @@
+Kaggle datasets()https://www.kaggle.com/datasets
+Data.gov()https://www.data.gov/
+EU Open Data Portal()https://data.europa.eu/data/datasets?locale=en\
+School System Finances()https://catalog.data.gov/dataset/annual-survey-of-school-system-finances
+US Healthcare Data()https://www.kaggle.com/maheshdadhich/us-healthcare-data
+The US National Center for Education Statistics()https://nces.ed.gov/
+The UK Data Service()https://www.ukdataservice.ac.uk/
+Data USA()https://datausa.io/
+Quandl()https://www.quandl.com/
+World Bank Open Data()https://data.worldbank.org/
+IMF Data()https://www.imf.org/en/Data
+Financial Times Market Data()https://markets.ft.com/data/
+Google Trends()https://trends.google.com/trends/?q=google&ctab=0&geo=all&date=all&sort=0
+Labelme()http://labelme.csail.mit.edu/Release3.0/browserTools/php/dataset.php
+ImageNet()https://image-net.org/
+COCO()https://cocodataset.org/#home
+COIL100()https://www1.cs.columbia.edu/CAVE/software/softlib/coil-100.php
+Visual Genome()http://visualgenome.org/
+Google’s Open Images()https://ai.googleblog.com/2016/09/introducing-open-images-dataset.html
+Labelled Faces in the Wild()http://vis-www.cs.umass.edu/lfw/
+Stanford Dogs Dataset()http://vision.stanford.edu/aditya86/ImageNetDogs/
+Indoor Scene Recognition()http://web.mit.edu/torralba/www/indoor.html
+VisualQA()https://visualqa.org/
+CIFAR-10()http://www.cs.toronto.edu/~kriz/cifar.html
+Open Images Dataset()https://storage.googleapis.com/openimages/web/index.html
+Youtube-8M()https://research.google.com/youtube8m/
+Multidomain Sentiment Analysis Dataset()http://www.cs.jhu.edu/~mdredze/datasets/sentiment/
+WordNet()https://wordnet.princeton.edu/
+IMDB Reviews()http://ai.stanford.edu/~amaas/data/sentiment/
+Stanford Sentiment Treebank()https://nlp.stanford.edu/sentiment/code.html
+Sentiment140()http://help.sentiment140.com/for-students/
+Twitter US Airline Sentiment()https://www.kaggle.com/crowdflower/twitter-airline-sentiment
+Enron Dataset()https://www.cs.cmu.edu/~./enron/
+Amazon Reviews()https://snap.stanford.edu/data/web-Amazon.html
+Google Books Ngrams()https://aws.amazon.com/ko/datasets/google-books-ngrams/
+Blogger Corpus()https://u.cs.biu.ac.il/~koppel/BlogCorpus.htm
+Wikipedia Links Data()https://code.google.com/archive/p/wiki-links/downloads
+Gutenberg()https://www.gutenberg.org/
+Hansards Text Chunks from the Canadian Parliament()https://www.isi.edu/research_groups/nlg/home
+Jeopardy()https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/
+SMS Spam Collection in English()https://www.dt.fee.unicamp.br/~tiago/smsspamcollection/
+Yelp Reviews()https://www.yelp.com/dataset
+UCI’s Spambase()https://archive.ics.uci.edu/ml/datasets/Spambase
+Berkeley DeepDrive BDD100k()https://bdd-data.berkeley.edu/
+Baidu Apolloscapes()http://apolloscape.auto/
+Comma.ai()https://archive.org/details/comma-dataset
+Oxford’s Robotic Car()http://robotcar-dataset.robots.ox.ac.uk/
+Cityscape Dataset()https://robotcar-dataset.robots.ox.ac.uk/
+KUL Belgium Traffic Sign Dataset()http://www.vision.ee.ethz.ch/~timofter/traffic_signs/
+LISA: Laboratory for Intelligent & Safe Automobiles, UC San Diego Datasets()http://cvrr.ucsd.edu/LISA/datasets.html
+LibriSpeech()https://www.openslr.org/12/
+Google AudioSet()https://research.google.com/audioset/
+Open Source Biometric Recognition Data()http://openbiometrics.org/

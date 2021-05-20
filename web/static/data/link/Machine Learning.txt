@@ -1,7 +1,0 @@
-A Brief Introduction to Graphical Models and Bayesian Networks()http://www.cs.ubc.ca/~murphyk/Bayes/bayes.html
-Boosting()http://www.boosting.org
-Deep Learning()http://deeplearning.net
-IMLS(The International Machine Learning Society)()http://www.machinelearning.org/"
-Journal of Machine Learning Research()http://jmlr.csail.mit.edu
-Kernel-Machines.Org()http://www.kernel-machines.org
-The Gaussian Processes Web Site()http://www.gaussianprocess.org

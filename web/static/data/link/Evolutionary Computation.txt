@@ -1,5 +1,0 @@
-EC Repository()http://www.fmi.uni-stuttgart.de/fk/evolalg/
-Evolutionary Computing Research Community Europe()http://www.evolutionary-computing.eu/index.html
-The Hitch-Hiker's Guide to Evolutionary Computation()http://www.cse.dmu.ac.uk/~rij/gafaq/top.htm
-Interactive Illustration of Evolutionary Computation()http://userweb.eng.gla.ac.uk/yun.li/ga_demo
-VitaSCIENCES()http://www.vita-sciences.org
