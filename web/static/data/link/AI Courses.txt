@@ -1,8 +1,8 @@
-Fast.ai()https://www.fast.ai/
-Machine Learning Course by Stanford University()https://www.coursera.org/learn/machine-learning
-Deep Learning Course by DeepLearning.AI()https://www.coursera.org/specializations/deep-learning
-Machine Learning Course A-Z™: Hands-On Python & R In Data Science()https://www.udemy.com/course/machinelearning/
-Data Science Course by Harvard University()https://www.edx.org/professional-certificate/harvardx-data-science
-Machine Learning Introduction Course()https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229
-Machine Learning Course()https://www.edx.org/learn/machine-learning
-Machine Learning Course with R()https://www.datacamp.com/courses/introduction-to-machine-learning-with-r
+Machine Learning Course by Stanford University()https://www.coursera.org/learn/machine-learning()Machine Learning
+Machine Learning Course by Edx()https://www.edx.org/learn/machine-learning()Machine Learning
+Machine Learning Course with R()https://www.datacamp.com/courses/introduction-to-machine-learning-with-r()Machine Learning
+Machine Learning Course A-Z™: Hands-On Python & R In Data Science by Udemy()https://www.udemy.com/course/machinelearning/()Machine Learning
+Deep Learning Course by DeepLearning.AI()https://www.coursera.org/specializations/deep-learning()Deep Learning
+Machine Learning Introduction Course by Udacity()https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229()Deep Learning
+Fast.ai()https://www.fast.ai/()Deep Learning
+Data Science Course by Harvard University()https://www.edx.org/professional-certificate/harvardx-data-science()Data Science

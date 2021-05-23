@@ -41,24 +41,27 @@ def contact():
 def get_link(fname):
     fname = "web/static/data/link/" + fname + ".txt"
     f = open(fname, "r", encoding="utf-8")
-    links = []
+    links = {}
     while True:
         line = f.readline()
         if not line: break
         line = line.rstrip()
         info = line.split("()")
-        links.append({"title":info[0], "link":info[1]})
+        try:
+            links[info[2]] = links.get(info[2], []) + [{"title":info[0], "link":info[1]}]
+        except Exception as e:
+            pass
     f.close()
     return links
 
 @home.route("/link")
 def link():
     links = []
-    types = ["Artificial Intelligence", "AI Applications", "AI Courses", "Datasets"]
+    title = ["Artificial Intelligence", "AI Applications", "AI Courses", "Datasets"]
 
-    for t in types:
+    for t in title:
         l = get_link(t)
-        links.append({"type": t, "links": l})
+        links.append({"title": t, "links": l})
 
     return render_template("link.html", links=links)
 

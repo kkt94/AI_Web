@@ -7,15 +7,19 @@
       <h1 style="text-align: center;"><strong>Links</strong></h1>
       <br>
       <br>
-        {% for l in links %}
-      <h3><strong>{{ l.type }}</strong></h3>
+      {% for l in links %}
+      <h3><strong>{{ l.title }}</strong></h3>
       <br>
         <div style="margin-left:30px;">
-            {% for i in l.links %}
+            {% for category, info in l.links.items() %}
+            <h4><strong>{{ category }}</strong></h4>
+              {% for i in info %}
               <div style="margin-bottom:-10px">
                   <a href={{ i.link }} style="color:black"><strong>{{i.title}}</strong></a>
               </div>
               <br>
+              {% endfor %}
+              <br>              
             {% endfor %}
         </div>
         <br>

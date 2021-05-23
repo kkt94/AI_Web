@@ -1,13 +1,12 @@
-Papers With Code()https://paperswithcode.com/
-Google AI Blog()https://ai.googleblog.com/
-Towards Data Science()https://towardsdatascience.com/
-Codementor Community()https://www.codementor.io/community/
-Machine Learning Mastery()https://machinelearningmastery.com/
-PyImageSearch()https://www.pyimagesearch.com/
-DZone()https://dzone.com/
-Analytics Vidhya Blog()https://www.analyticsvidhya.com/blog/
-Kdnuggets()https://www.kdnuggets.com/
-Pete Warden’s Blog()https://petewarden.com/
-Revolutions Blog()http://blog.revolutionanalytics.com/
-Data Plus Science Blog()https://www.dataplusscience.com/insights.html
-Edwin Chen’s Blog()http://blog.echen.me/
+Papers With Code()https://paperswithcode.com/()Leaderboards
+Google AI Blog()https://ai.googleblog.com/()Machine Learning & Deep Learning
+Towards Data Science()https://towardsdatascience.com/()Machine Learning & Deep Learning
+Machine Learning Mastery()https://machinelearningmastery.com/()Machine Learning & Deep Learning
+PyImageSearch()https://www.pyimagesearch.com/()Machine Learning & Deep Learning
+Analytics Vidhya Blog()https://www.analyticsvidhya.com/blog/()Machine Learning & Deep Learning
+Kdnuggets()https://www.kdnuggets.com/()Machine Learning & Deep Learning
+Pete Warden’s Blog()https://petewarden.com/()Machine Learning & Deep Learning
+Revolutions Blog()http://blog.revolutionanalytics.com/()Data Science
+DZone()https://dzone.com/()Data Science
+Data Plus Science Blog()https://www.dataplusscience.com/insights.html()Data Science
+Edwin Chen’s Blog()http://blog.echen.me/()Data Science
