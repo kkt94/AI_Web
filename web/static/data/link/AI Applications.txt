@@ -10,7 +10,6 @@ Image Generation()https://research.aimultiple.com/artificial-intelligence-art/()
 Voice Search()https://blog.google/products/search/hum-to-search()Audio
 Music Generation()https://artsandculture.google.com/experiment/AAHWrq360NcGbw?cp=e30.()Audio
 Audio Translation()https://www.skype.com/en/features/skype-translator/()Audio
-Audio Transcription()https://blogs.microsoft.com/ai/historic-achievement-microsoft-researchers-reach-human-parity-conversational-speech-recognition/()Audio
 Health Care()https://www.youper.ai/()etc
 Digital Assistant()https://x.ai/()etc
 Social Network()https://www.wired.com/2017/02/inside-facebooks-ai-machine/()etc
