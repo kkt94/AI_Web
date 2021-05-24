@@ -1,4 +1,4 @@
-Papers With Code()https://paperswithcode.com/()Leaderboards
+Papers With Code()https://paperswithcode.com/()Machine Learning & Deep Learning
 Google AI Blog()https://ai.googleblog.com/()Machine Learning & Deep Learning
 Towards Data Science()https://towardsdatascience.com/()Machine Learning & Deep Learning
 Machine Learning Mastery()https://machinelearningmastery.com/()Machine Learning & Deep Learning
