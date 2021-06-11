@@ -1,12 +1,12 @@
 HyAdamC: A New Adam-based Hybrid Optimization Algorithm for Convolution Neural Networks()Sensors, 2021
 Discovering microbe-disease associations from the literature using a hierarchical long short-term memory network and an ensemble parser model()Scientific Reports, Vol.11, No.4490, 2021
-Enhancement of Multi-Target Tracking Performance via Image Restoration and Face Embedding in Dynamic Environments()Applied Sciences-Basel, Vol.11, No.2, 2021
-Zero-Shot Recognition Enhancement by Distance-Weighted Contextual Inference()Applied Sciences-Basel, Vol.10, No.20, 2020
+Enhancement of Multi-Target Tracking Performance via Image Restoration and Face Embedding in Dynamic Environments()Applied Sciences, Vol.11, No.2, 2021
+Zero-Shot Recognition Enhancement by Distance-Weighted Contextual Inference()Applied Sciences, Vol.10, No.20, 2020
 Mapping Social Distress: A Computational Approach to Spatiotemporal Distribution of Anxiety()Social Science Computer Review, 2020
 An efficient variable interdependency-identification and decomposition by minimizing redundant computations for large-scale global optimization()Information Sciences, Vol.513, 2020
-Image-To-Image Translation Using a Cross-Domain Auto-Encoder and Decoder()Applied Sciences-Basel, Vol.9, No.22, 2019
-Semantic Relation Classification via Bidirectional LSTM Networks with Entity-Aware Attention Using Latent Entity Typing()Symmetry-Basel, Vol.11, No.6, 2019
-Boosting Memory-Based Collaborative Filtering Using Content-Metadata()Symmetry-Basel, Vol.11, No.4, 2019
+Image-To-Image Translation Using a Cross-Domain Auto-Encoder and Decoder()Applied Sciences, Vol.9, No.22, 2019
+Semantic Relation Classification via Bidirectional LSTM Networks with Entity-Aware Attention Using Latent Entity Typing()Symmetry, Vol.11, No.6, 2019
+Boosting Memory-Based Collaborative Filtering Using Content-Metadata()Symmetry, Vol.11, No.4, 2019
 Ontology based Human-Robot Interaction Knowledge for Intelligent Services()Lecture Notes in Artificial Intelligence (ICSR’2017), 2017
 Effectiveness of game based learning to minimize boolean functions()Multimedia Tools and Applications, Volume 74, Issue 17, 2014
 Collaborative Recommendation Method Reflecting Temporal Trends()Information-An International Interdisciplinary Journal, 2013
