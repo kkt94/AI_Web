@@ -7,4 +7,4 @@ Jinwoo Jeong()jinwoohg@gmail.com()()Natural Language Processing, Coreference Res
 Hyeong-Ryeol Baek()qorgod00@hanyang.ac.kr()()Machine Reading Comprehension, Relation Extraction()bhr.jpg
 Hee-Ju Im()heju0509@hanyang.ac.kr()()Video Captioning , Video Recognition()lhj.jpg
 Whan-Hee Cho()straw88@hanyang.ac.kr()()Natural Language Processing, Semi-Supervised Learning()whanhee.jpg
-Geun-Uk Cheong()geunuk@hanyang.ac.kr()()Machine Reasoning, Question Answering Algotirhm()jgw.jpg
+Geun-Uk Cheong()geunuk@hanyang.ac.kr()()Machine Reasoning, Question Answering Algorithm()jgw.jpg
