@@ -57,7 +57,7 @@ def get_link(fname):
 @home.route("/link")
 def link():
     links = []
-    title = ["Artificial Intelligence", "AI Applications", "AI Courses", "Datasets"]
+    title = ["Artificial Intelligence", "AI and Data Competitions", "AI Applications", "AI Courses", "Datasets"]
 
     for t in title:
         l = get_link(t)
