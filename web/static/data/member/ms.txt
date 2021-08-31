@@ -8,3 +8,4 @@ Hyeong-Ryeol Baek()qorgod00@hanyang.ac.kr()()Machine Reading Comprehension, Rela
 Hee-Ju Im()heju0509@hanyang.ac.kr()()Video Captioning , Video Recognition()lhj.jpg
 Whan-Hee Cho()straw88@hanyang.ac.kr()()Natural Language Processing, Semi-Supervised Learning()whanhee.jpg
 Hae-Sung Park()hisung6759@naver.com()()Generative Adversarial Network, Image classification()parkhaesung.jpg
+Keuntae Kim()ktkpv94@gmail.com()()Machine Learning, Artificial Intelligence()KeuntaeKim.jpg
