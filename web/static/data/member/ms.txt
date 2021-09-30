@@ -1,4 +1,3 @@
-Ji-Un Oh()jiunoh@hanyang.ac.kr()()Neural Machine Translation()ohjiun.jpeg
 Bong-Seok Lee()tjr4090@hanyang.ac.kr()()Natural Language Processing, Machine Reading Comprehension, Relation Extraction()leebongseok.jpg
 Eun-Soo Lee()eunsoogi@hanyang.ac.kr()()NLP, Multi-Label Classification()leeeunsoo.jpg
 Young-Min Seo()ghzmwhdk777@hanyang.ac.kr()()Action Recognition, Super Resolution()seoyoungmin.jpg

@@ -1,3 +1,4 @@
+Reusing Monolingual Pre-Trained Models by Cross-Connecting Seq2seq Models for Machine Translation()Applied Sciences, Vol.11, No.18, 2021
 A Care Knowledge Management System Based on an Ontological Model of Caring for People With Dementia: Knowledge Representation and Development Study()Journal of Medical Internet Research, Vol.23, No.6, 2021
 HyAdamC: A New Adam-based Hybrid Optimization Algorithm for Convolution Neural Networks()Sensors, Vol.21, No.12, 2021
 Discovering microbe-disease associations from the literature using a hierarchical long short-term memory network and an ensemble parser model()Scientific Reports, Vol.11, No.4490, 2021
