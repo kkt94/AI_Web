@@ -6,4 +6,4 @@ Jinwoo Jeong()jinwoohg@gmail.com()()Natural Language Processing, Coreference Res
 Hyeong-Ryeol Baek()qorgod00@hanyang.ac.kr()()Machine Reading Comprehension, Relation Extraction()bhr.jpg
 Hee-Ju Im()heju0509@hanyang.ac.kr()()Video Captioning , Video Recognition()lhj.jpg
 Whan-Hee Cho()straw88@hanyang.ac.kr()()Natural Language Processing, Semi-Supervised Learning()whanhee.jpg
-Hae-Sung Park()hisung6759@naver.com()()Generative Adversarial Network, Image classification()parkhaesung.jpg
+Hae-Sung Park()hisung6759@naver.com()()Video classification, Action recognition()parkhaesung.jpg
