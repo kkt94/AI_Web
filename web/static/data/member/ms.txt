@@ -7,3 +7,7 @@ Hyeong-Ryeol Baek()qorgod00@hanyang.ac.kr()()Machine Reading Comprehension, Rela
 Hee-Ju Im()heju0509@hanyang.ac.kr()()Video Captioning , Video Recognition()lhj.jpg
 Whan-Hee Cho()straw88@hanyang.ac.kr()()Natural Language Processing, Semi-Supervised Learning()whanhee.jpg
 Hae-Sung Park()hisung6759@naver.com()()Video classification, Action recognition()parkhaesung.jpg
+Jee-Woo Sul()jeewoo1025@gmail.com()()Natural Language Processing, Question Answering()Sul-Jee-Woo.JPG
+Min-ji Kim()kmji17@hanyang.ac.kr()()Natural Language Processing, Artificial Intelligence()Minji-Kim.jpg
+Soo-bin Park()soobin419@hanyang.ac.kr()()Computer Vision()Park-Soobin.jpg
+Min-ji Jung()jminji98@gmail.com()()Natural Language Processing, Machine Reading Comprehension, Dialogue State Tracking()Minji-Jung.png
