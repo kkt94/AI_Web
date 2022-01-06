@@ -1,3 +1,4 @@
+Visual Context Embeddings for Zero-Shot Recognition()ACM SIGAPP Symposium on Applied Computing (SAC), 2022
 Graph Based Network with Contextualized Representations of Turns in Dialogue()Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021
 Depth-Enhanced Gaze Following Method()ACM SIGAPP Symposium on Applied Computing (SAC), 2021
 Graph Convolutional Networks for Skeleton-Based Action Recognition with LSTM using Tool-Information()ACM SIGAPP Symposium on Applied Computing (SAC), 2021
