@@ -1,3 +1,4 @@
+Video Super Resolution Using a Selective Edge Aggregation Network()Applied Sciences, Vol.12, No.5, 2022
 Cooperative coevolutionary algorithm with resource allocation strategies to minimize unnecessary computations()Applied Soft Computing, Vol.113, 2021
 Reusing Monolingual Pre-Trained Models by Cross-Connecting Seq2seq Models for Machine Translation()Applied Sciences, Vol.11, No.18, 2021
 A Care Knowledge Management System Based on an Ontological Model of Caring for People With Dementia: Knowledge Representation and Development Study()Journal of Medical Internet Research, Vol.23, No.6, 2021
