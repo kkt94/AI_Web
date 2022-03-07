@@ -1,8 +1,3 @@
-Bong-Seok Lee()tjr4090@hanyang.ac.kr()()Natural Language Processing, Machine Reading Comprehension, Relation Extraction()leebongseok.jpg
-Eun-Soo Lee()eunsoogi@hanyang.ac.kr()()NLP, Multi-Label Classification()leeeunsoo.jpg
-Young-Min Seo()ghzmwhdk777@hanyang.ac.kr()()Action Recognition, Super Resolution()seoyoungmin.jpg
-Won-Hyuk Choi()gandet09@hanyang.ac.kr()()Natural Language Generation, Image Captioning()choiwonhyuk.jpg
-Jinwoo Jeong()jinwoohg@gmail.com()()Natural Language Processing, Coreference Resolution, Computational Social Science()jjw.jpg
 Hyeong-Ryeol Baek()qorgod00@hanyang.ac.kr()()Machine Reading Comprehension, Relation Extraction()bhr.jpg
 Hee-Ju Im()heju0509@hanyang.ac.kr()()Video Captioning , Video Recognition()lhj.jpg
 Whan-Hee Cho()straw88@hanyang.ac.kr()()Natural Language Processing, Semi-Supervised Learning()whanhee.jpg
