@@ -27,7 +27,7 @@ body {
 .slide2 {
   height: 50vh;
   min-height: 300px;
-  background: url('/static/img/slide/slide2.png') center center no-repeat scroll;
+  background: url('/static/img/slide/slide3.png') center center no-repeat scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
