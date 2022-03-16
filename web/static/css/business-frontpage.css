@@ -27,47 +27,7 @@ body {
 .slide2 {
   height: 50vh;
   min-height: 300px;
-  background: url('/static/img/slide/slide1.png') center center no-repeat scroll;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-}
-
-.slide3 {
-  height: 50vh;
-  min-height: 300px;
-  background: url('/static/img/slide/slide3.png') center center no-repeat scroll;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-}
-
-.slide4 {
-  height: 50vh;
-  min-height: 300px;
-  background: url('/static/img/slide/slide4.png') center center no-repeat scroll;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-}
-
-.slide5 {
-  height: 50vh;
-  min-height: 300px;
-  background: url('/static/img/slide/slide5.png') center center no-repeat scroll;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-}
-
-.slide6 {
-  height: 50vh;
-  min-height: 300px;
-  background: url('/static/img/slide/slide6.png') center center no-repeat scroll;
+  background: url('/static/img/slide/slide2.png') center center no-repeat scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
