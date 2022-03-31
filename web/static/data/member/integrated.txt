@@ -1,2 +1,2 @@
-Soo-Hyeong Kim()ksh970404@naver.com()()Natural Language Generation, Text Style Transfer()soohyung.jpg
-Keuntae Kim()ktkpv94@gmail.com()()Machine Learning, Artificial Intelligence()KeuntaeKim.jpg
+Soo-Hyeong Kim()ksh970404@hanyang.ac.kr()()Natural Language Generation, Text Style Transfer()soohyung.jpg
+Keuntae Kim()ktkpv94@gmail.com()()Deep Learning, Neural Machine Translation()KeuntaeKim.jpg
