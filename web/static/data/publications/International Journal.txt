@@ -1,3 +1,4 @@
+Effective Pre-Training Method and Its Compositional Intelligence for Image Captioning()Sensors, Vol.22, No.9, 2022
 Video Super Resolution Using a Selective Edge Aggregation Network()Applied Sciences, Vol.12, No.5, 2022
 Cooperative coevolutionary algorithm with resource allocation strategies to minimize unnecessary computations()Applied Soft Computing, Vol.113, 2021
 Reusing Monolingual Pre-Trained Models by Cross-Connecting Seq2seq Models for Machine Translation()Applied Sciences, Vol.11, No.18, 2021
