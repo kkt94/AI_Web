@@ -1,6 +1,6 @@
 #!/bin/sh
 
-sudo git pull
+git pull
 
 sudo kill -9 `ps -ef | grep 'run.py' | awk '{print $2}'`
 
