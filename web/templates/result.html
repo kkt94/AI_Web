@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Result</title>
+    <link rel='stylesheet' type="text/css" href="{{url_for('static', filename='css/style.css')}}">
+    <script>
+        function replace(outer_index, inner_index){
+            var str = document.getElementById('sentence'+outer_index+""+inner_index).innerHTML;
+            var sub = document.getElementById('sub'+outer_index+""+inner_index).innerHTML;
+            var obj = document.getElementById('obj'+outer_index+""+inner_index).innerHTML;
+            var verb = document.getElementById('ori_verb'+outer_index+""+inner_index).innerHTML;
+            str = str.replace(sub, "<span style='color:red'>"+sub+"</span>");
+            str = str.replace(obj, "<span style='color:blue'>"+obj+"</span>");
+            str = str.replace(verb, "<span style='color:green'>"+verb+"</span>")
+            document.getElementById('sentence'+outer_index+""+inner_index).innerHTML = str;
+        }
+    </script>
+</head>
+<body>
+    <div class='frame'>
+        <!--header-->
+        <div class="header">
+            <div class="logo"><h1>AILab</h1></div>
+        </div>
+        <!--container-->
+        <div class="container">
+            <!--nav-->
+            <div class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="/post" class="nav-link">문장 입력</a></li>
+                    <li class="nav-item"><a href="/file" class="nav-link">파일로 입력</a></li>
+                </ul>
+            </div>
+            <!--content-->
+            <div class="content">
+                <h1>한국어 관계 추출기</h1>
+                <hr>
+                <table class="table" id="tab" data-result="{{result}}">
+                    <tr><th>No.</th><th>주어</th><th>목적어</th><th>동사</th><th>문장</th></tr>
+                    {% for data in result %}
+                    {% set data_loop = loop %}
+                    {% for sub, obj, verb, original_verb in zip(data['subjects'], data['objects'], data['verbs'], data['original_verbs']) %}
+                    {% set inner_loop = loop %}
+                    <tr>
+                        <td id="index">{{data_loop.index}}</td>
+                        <td><span id="sub{{data_loop.index}}{{inner_loop.index}}" style="color:red">{{sub}}</span></td>
+                        <td><span id="obj{{data_loop.index}}{{inner_loop.index}}" style="color:blue">{{obj}}</span></td>
+                        <td><span id="verb{{data_loop.index}}{{inner_loop.index}}" style="color:green">{{verb}}</span></td>
+                        <td><p id="sentence{{data_loop.index}}{{inner_loop.index}}">{{data['text']}}</p></td>
+                        <td><button onclick="replace({{data_loop.index}}, {{inner_loop.index}})">coloring</button></td>
+                        <div id='ori_verb{{data_loop.index}}{{inner_loop.index}}' style="display: none;">{{original_verb}}</div>
+                    </tr>
+                    {% endfor %}
+                    {% endfor %}
+                </table>
+                <form method="get" action="/csv_file_download">
+                    <input type='submit' value="Download"></input>
+                </form>
+            </div>
+        </div>
+        <!--footer-->
+        <div>
+            <div class="footer">
+                <p class="copyright">&copy;copy</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
