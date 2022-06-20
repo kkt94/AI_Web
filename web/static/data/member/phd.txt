@@ -1,4 +1,4 @@
 Gun-hee Cho()freebeinq@gmail.com()()Zero-Shot Recognition, Ontology()rjsgml.jpg
 Keon Kim()doublek375@hanyang.ac.kr()()Artificial Intelligence()Kim_Keon.jpg
 Hwa-oo Jeon()feelgood88@hanyang.ac.kr()()Context Reasoning and Decision support()jhoo.png
-Hye-kyung Yoon()yhk04150@gmail.com()()Natural Language Processing, Spoken Language Understanding()yhk.png
+Hye-kyung Yoon()yhk04150@gmail.com()()Video Classification()yhk.png
